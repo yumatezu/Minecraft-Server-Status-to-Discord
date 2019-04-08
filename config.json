@@ -1,0 +1,13 @@
+{
+ "ServerData": {    
+    "hostname": <Enter Server Hostname>,
+    "direct": {"ip": <Enter Server IP>, "port": <Enter Server IP>},
+    "online": false,
+    "players": {"online":0,"max":35}
+ },
+ "token": <Enter Discord Bot TOKEN>,
+ "prefix": "!",
+ "messages": {
+  <Enter Channel ID> : ""
+ }
+}
